@@ -1,2 +1,2 @@
-# ProjectEuler
-My solutions to Project Euler Problems
+# PE
+My solutions to PE Problems
